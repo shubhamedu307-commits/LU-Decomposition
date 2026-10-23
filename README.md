@@ -75,7 +75,7 @@ print(x)
 
 
 
-![lu decomposition]()
+
 
 
 ## Result:
